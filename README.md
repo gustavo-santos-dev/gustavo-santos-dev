@@ -45,9 +45,6 @@ Aprimorar minha lógica de programação, desenvolver projetos próprios, aprend
 
 [LinkedIn](https://www.linkedin.com/in/gustavosantos9/)
 
----
-
-*Em constante aprendizado e evolução na tecnologia.*
 
 <!--
 **gustavo-santos-dev/gustavo-santos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
